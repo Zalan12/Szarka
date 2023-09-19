@@ -1,3 +1,7 @@
 body{background-color: aliceblue;
-color: darkblue;}
-h2{background-color: crimson;}
+color: darkblue;
+width: 1000px;}
+h2{color: crimson;}
+table{width: 500px;}
+#jobb{text-align: right;}
+td{margin-bottom: 10px;}
